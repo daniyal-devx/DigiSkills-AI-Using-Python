@@ -152,6 +152,6 @@ jupyter notebook
 
 *Made with ❤️ in Pakistan · DigiSkills AI Using Python*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Repo%20Views&color=00A859&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=daniyal-devx&label=Repo%20Views&color=00A859&style=flat)
 
 </div>
